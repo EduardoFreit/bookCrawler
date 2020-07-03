@@ -1,0 +1,1 @@
+Programa que faz um crawler de algumas informções dos livros presentes no site: 'http://books.toscrape.com/'. Paara executar, Basta executar o 'main.r'. 
